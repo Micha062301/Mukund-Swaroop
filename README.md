@@ -1,7 +1,7 @@
 # Hi, I'm Mukund 👋
 
 🎓 I'm a student 
-💡 Interested in AI, finance, and startups  
+💡 Interested in AI & Machine Learning, Generative AI (LLMs, GPT, diffusion models)
 💻 Currently learning: Machine Learning, LLMs
 
 ---
